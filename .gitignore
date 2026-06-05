@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# venv
+travel/
+travel_env/
+venv/
+
+# Streamlit
+.streamlit/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode
+.vscode/
+
+# MagicLens模型
+magiclens/magiclens/models/
+
+# 输出文件
+outputs/*.npy
+outputs/*.json
+
+# 临时文件
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
