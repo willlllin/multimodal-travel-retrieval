@@ -18,6 +18,9 @@ venv/
 # VSCode
 .vscode/
 
+#clip模型
+CILP
+
 # MagicLens模型
 magiclens/magiclens/models/
 
